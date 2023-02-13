@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://craftdium.ml/launcherSelvania",
+    "url": "http://airborne-gmod.ouiweb.eu/minecraft",
     "engines": {
         "node": "^18.x.x"
     },

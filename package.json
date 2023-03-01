@@ -5,7 +5,7 @@
     "description": "Launcher Mincraft custom (crack, premium)",
     "main": "src/app.js",
     "author": "Luuxis",
-    "url": "http://airborne-gmod.ouiweb.eu/minecraft",
+    "url": "https://www.electiarp.hosterfy.fr/minecraft",
     "engines": {
         "node": "^18.x.x"
     },
